@@ -137,5 +137,8 @@
       }
     }
   },
-  "defaultProject": "ngrx-guid-state"
+  "defaultProject": "ngrx-guid-state",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
